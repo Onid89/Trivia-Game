@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KathrinKath.github.io/World-Trivia/",
+  "homepage": "https://Onid89.github.io/Trivia-Game/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
